@@ -387,6 +387,7 @@ footer {
     margin-top: 1.5rem;
 }
 .terms-container p {
+    font-size: 0.8em; /* This makes the text even smaller */
     text-align: justify;
     line-height: 1.6;
     margin-bottom: 1.2rem;
@@ -394,6 +395,7 @@ footer {
 .logo-group {
     text-align: center;
     padding: 1rem 0 2rem;
+    margin-bottom: -3rem;
 }
 .logo-group img {
     max-width: 250px;
