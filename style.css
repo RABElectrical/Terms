@@ -365,3 +365,46 @@ footer {
     width: 250px; /* Adjust this value to change the logo size */
     height: auto;
 }
+/* --- Terms & Conditions Page Styles --- */
+.terms-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.terms-container h2 {
+    font-size: 1.8rem;
+    color: #15316f;
+    margin-top: 2rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+.terms-container h3 {
+    font-size: 1.4rem;
+    color: #15316f;
+    margin-top: 1.5rem;
+}
+.terms-container p {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 1.2rem;
+}
+.logo-group {
+    text-align: center;
+    padding: 1rem 0 2rem;
+}
+.logo-group img {
+    max-width: 250px;
+    height: auto;
+}
+.napit-logo-container {
+    text-align: center;
+    padding: 2rem 0 1rem;
+}
+.napit-logo-container img {
+    max-width: 150px;
+    height: auto;
+}
+/* --- End of Terms & Conditions Styles --- */
